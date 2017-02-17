@@ -1,0 +1,7 @@
+flask
+bson
+pycrypto
+cryptography
+jwt
+pyjwt
+flask_socketIO
